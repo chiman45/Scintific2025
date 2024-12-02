@@ -26,8 +26,7 @@ export const HeroSection = () => {
               Young Innovative Competition
             </div>
             <div className="text-base  text-transparent  bg-clip-text bg-gradient-to-r from-[#272727] to-[#414345] font-bold w-[550px] pt-2 TEXTSIZE1">
-              Compete with the innovative and enthusiastic minds of the nation
-              in IDEATHON 7.0.
+              Compete with the most innovative and enthusiastic minds from across the nation in Ideathon 7.0! Stand a chance to win exciting cash prizes for securing 1st, 2nd, and 3rd positions in each category.
             </div>
             <div className="text-base  text-transparent  bg-clip-text bg-gradient-to-r from-[#272727] to-[#414345] font-bold  w-[550px] pt-1 TEXTSIZE1">
               Come and join us at DSPM IIIT Naya Raipur to showcase your
@@ -38,7 +37,7 @@ export const HeroSection = () => {
               <a href='#participate' className="text-[#5172E7] w-[180px] h-[48px] rounded-full border-2 drop-shadow-xl shadow-2xl shadow-[#F5F5F5] flex justify-center items-center bg-white font-semibold text-opacity-80 cursor-pointer BUTTON1">
                 How to Participate
               </a>
-              <a  href='#themes' className="w-[180px] h-[48px] rounded-full border-2 drop-shadow-xl cursor-pointer flex justify-center items-center text-transparent  bg-clip-text bg-gradient-to-r from-[#272727] to-[#272727CC] font-bold border-[#272727] BUTTON1">
+              <a href='#themes' className="w-[180px] h-[48px] rounded-full border-2 drop-shadow-xl cursor-pointer flex justify-center items-center text-transparent  bg-clip-text bg-gradient-to-r from-[#272727] to-[#272727CC] font-bold border-[#272727] BUTTON1">
                 This year’s themes
               </a>
             </div>

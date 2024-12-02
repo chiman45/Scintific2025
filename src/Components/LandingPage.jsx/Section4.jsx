@@ -6,18 +6,7 @@ export const Section4 = () => {
     <div className="lg:flex lg:flex-col justify-center items-center py-4 BOX">
       <div className="text-5xl font-extrabold Adjust_title text-[#4776E6]">Why Ideathon?</div>
       <div className="text-lg font-light pt-6 text-left lg:w-[950px]">
-        <ol style={{ listStyleType: "initial" }} className="Adjust_content">
-          <li className="py-1.5">
-            To promote the culture of innovation among school students.
-          </li>
-          <li className="py-1.5"> Compete with top schools across india.</li>
-          <li className="py-1.5">
-            {" "}
-            Present the idea at IIIT-NR Faculties and Scholars & get evaluated
-            by domain experts.
-          </li>
-          {/* <li className='py-1.5'>To encourage school students for higher education in science and technology.</li> */}
-        </ol>
+        The Tech Expo is a flagship segment of Scientific, designed to spotlight the innovative spirit of IIIT-NR students. This event provides a unique platform for students to exhibit their cutting-edge projects, offering visiting students a glimpse into the remarkable research and development taking place at our institute. In addition to project showcases, the expo hosts engaging tech talks by students and experts, delving into the latest advancements in Artificial Intelligence and emerging technologies. The Tech Expo aims to inspire curiosity, foster collaboration, and bridge the gap between theoretical knowledge and practical innovation.
       </div>
     </div>
   );
