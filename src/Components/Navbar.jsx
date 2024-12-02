@@ -74,16 +74,9 @@ export const Navbar = () => {
             Contact
           </a>
         </div>
+        
         {!isOpen ? (
           <div className="NavbarDisplay NavbarAbout">
-            <a
-              href="https://bit.ly/3tNICGq"
-              target="_blank"
-              class="text-[#5172E7] w-[180px] h-[48px] rounded-full border drop-shadow-lg flex justify-center items-center bg-white font-semibold text-opacity-80 cursor-pointer transition-transform transform hover:scale-105 hover:drop-shadow-xl duration-300 ease-in-out "
-              rel="noreferrer"
-            >
-              Submit Your Idea
-            </a>
           </div>
         ) : (
           ""
